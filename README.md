@@ -5,5 +5,9 @@ This is the read-me file for the Github Workflow.
 
 - "To Improve is to change"
 - "There is nothing permanent, except change"
+<<<<<<< HEAD
 
 My name is Erik Rodriguez 
+=======
+- "My name is Rami Maroukel"
+>>>>>>> main
